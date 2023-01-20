@@ -1,0 +1,11 @@
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.csproj.AssemblyReference.cache
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.Form1.resources
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.Properties.Resources.resources
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.csproj.GenerateResource.cache
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\bin\Debug\Projeto19Janeiro.exe.config
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\bin\Debug\Projeto19Janeiro.exe
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\bin\Debug\Projeto19Janeiro.pdb
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.exe
+C:\Users\matheus.mtsouza3\source\repos\Projeto19Janeiro\obj\Debug\Projeto19Janeiro.pdb
